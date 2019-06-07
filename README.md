@@ -1,6 +1,5 @@
 # 2nd-ML100Days
-on the go
-
+on the go '\'
 記錄每天學習進度+作業+延伸閱讀時數
 
 
