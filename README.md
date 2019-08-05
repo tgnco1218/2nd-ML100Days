@@ -1,5 +1,123 @@
 # 2nd-ML100Days
-on the go 
+
+Day001 資料介紹與評估資料：挑戰是什麼?動手分析前請三思
+
+Day002 EDA-1/讀取資料EDA: Data summary：如何讀取資料以及萃取出想要了解的信息
+
+Day003 3-1如何新建一個 dataframe?3-2 如何讀取其他資料? (非 csv 的資料，如圖檔、純文字檔、json 等)
+
+Day004 EDA: 欄位的資料類型介紹及處理：了解資料在 pandas 中可以表示的類型
+
+Day005 EDA資料分佈：用統計方式描述資料
+
+Day006 EDA: Outlier 及處理：偵測與處理例外數值點：1. 透過常用的偵測方法找到例外 2. 判斷例外是否正常
+
+Day007 常用的數值取代：中位數與分位數連續數值標準化：偵測與處理例外數值 1. 缺值或例外取代 2. 數據標準化
+
+Day008 DataFrame operationData frame merge/常用的 DataFrame 操作：1. 常見的資料操作方法 2. 資料表串接
+
+Day009 程式實作 EDA: correlation/相關係數簡介：1. 了解相關係數 2. 利用相關係數直觀地理解對欄位與預測目標之間的關係
+
+Day010 EDA from Correlation：深入了解資料，從 correlation 的結果下手
+
+Day011 EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation(KDE)1. 如何調整視覺化方式檢視數值範圍 2. 美圖修修 - 轉換繪圖樣式
+
+Day012 EDA: 把連續型變數離散化：簡化連續性變數
+
+Day013 程式實作 把連續型變數離散化：深入了解資料，從簡化後的離散變數下手
+
+Day014 Subplots：探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
+
+Day015 Heatmap & Grid-plot：探索性資料分析 - 資料視覺化 - 熱像圖 / 格狀圖 1. 熱圖：以直觀的方式檢視變數間的相關性 2. 格圖：繪製變數間的散佈圖及分布
+
+Day016 模型初體驗 Logistic Regression：在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣
+
+Day017 特徵工程簡介：介紹機器學習完整步驟中，特徵工程的位置以及流程架構
+
+Day018 特徵類型：特徵工程依照特徵類型，做法不同，大致可分為數值/類別/時間型三類特徵
+
+Day019 數值型特徵-補缺失值與標準化：數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異
+Day020 數值型特徵 - 去除離群值：數值型特徵若出現少量的離群值，則需要去除以保持其餘數據不被影響
+Day021 數值型特徵 - 去除偏態：數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
+Day022
+Day023
+Day024
+Day025
+Day026
+Day027
+Day028
+Day029
+Day030
+Day031
+Day032
+Day033
+Day034
+Day035
+Day036
+Day037
+Day038
+Day039
+Day040
+Day041
+Day042
+Day043
+Day044
+Day045
+Day046
+Day047
+Day048
+Day049
+Day050
+Day051
+Day052
+Day053
+Day054
+Day055
+Day056
+Day057
+Day058
+Day059
+Day060
+Day061
+Day062
+Day063
+Day064
+Day065
+Day066
+Day067
+Day068
+Day069
+Day070
+Day071
+Day072
+Day073
+Day074
+Day075
+Day076
+Day077
+Day078
+Day079
+Day080
+Day081
+Day082
+Day083
+Day084
+Day085
+Day086
+Day087
+Day088
+Day089
+Day090
+Day091
+Day092
+Day093
+Day094
+Day095
+Day096
+Day097
+Day098
+Day099
+Day100
 
 記錄每天學習進度+作業+延伸閱讀時數：
 
