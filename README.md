@@ -16,7 +16,7 @@ Day007 常用的數值取代：中位數與分位數連續數值標準化：偵�
 
 Day008 DataFrame operationData frame merge/常用的 DataFrame 操作：1. 常見的資料操作方法 2. 資料表串接
 
-Day009 程式實作 EDA: correlation/相關係數簡介：1. 了解相關係數 2. 利用相關係數直觀地理解對欄位與預測目標之間的關係
+Day009 EDA:correlation/相關係數簡介：1.了解相關係數 2.利用相關係數直觀地理解對欄位與預測目標之間的關係
 
 Day010 EDA from Correlation：深入了解資料，從 correlation 的結果下手
 
@@ -26,11 +26,11 @@ Day012 EDA: 把連續型變數離散化：簡化連續性變數
 
 Day013 程式實作 把連續型變數離散化：深入了解資料，從簡化後的離散變數下手
 
-Day014 Subplots：探索性資料分析 - 資料視覺化 - 多圖檢視 1. 將數據分組一次呈現 2. 把同一組資料相關的數據一次攤在面前
+Day014 Subplots：探索性資料分析-資料視覺化-多圖檢視1.將數據分組一次呈現2.把同一組資料相關的數據一次攤在面前
 
 Day015 探索性資料分析-資料視覺化-熱像圖：以直觀的方式檢視變數間的相關性/格狀圖：繪製變數間的散佈圖及分布 
 
-Day016 模型初體驗 Logistic Regression：在我們開始使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣
+Day016 模型初體驗Logistic Regression：使用任何複雜的模型之前，有一個最簡單的模型當作 baseline 是一個好習慣
 
 Day017 特徵工程簡介：介紹機器學習完整步驟中，特徵工程的位置以及流程架構
 
@@ -46,7 +46,7 @@ Day022 類別型特徵 - 基礎處理：介紹類別型特徵最基礎的作法 
 
 Day023 類別型特徵 - 均值編碼：類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
 
-Day024 類別型特徵 - 進階處理：類別型特徵常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
+Day024 類別型特徵 - 類別型特徵常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
 
 Day025 時間型特徵：時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數
 
@@ -84,7 +84,7 @@ Day041 tree based model - 決策樹 (Decision Tree) 模型介紹：決策樹 (De
 
 Day042 tree based model - 決策樹程式碼撰寫：使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼
 
-Day043 tree based model - 隨機森林 (Random Forest) 介紹：隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項
+Day043 tree based model - 隨機森林 (Random Forest) 介紹：理論基礎與使用時的注意事項
 
 Day044 tree based model - 隨機森林程式碼撰寫：使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
 
@@ -194,7 +194,7 @@ Day096 Keras 中的 CNN layers
 
 Day097 使用 CNN 完成 CIFAR-10 資料集
 
-Day098 訓練卷積神經網路的細節與技巧 - 處理大量數據：資料無法放進記憶體該如何解決？如何使用 Python 的生成器 generator?
+Day098 訓練卷積神經網路的細節與技巧 - 大量數據：資料無法放進記憶體？如何使用Python的生成器generator?
 
 Day099 訓練卷積神經網路的細節與技巧 - 處理小量數據：Data Augmentation 資料增強
 
