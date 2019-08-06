@@ -37,87 +37,169 @@ Day017 特徵工程簡介：介紹機器學習完整步驟中，特徵工程的�
 Day018 特徵類型：特徵工程依照特徵類型，做法不同，大致可分為數值/類別/時間型三類特徵
 
 Day019 數值型特徵-補缺失值與標準化：數值型特徵首先必須填補缺值與標準化，在此複習並展示對預測結果的差異
+
 Day020 數值型特徵 - 去除離群值：數值型特徵若出現少量的離群值，則需要去除以保持其餘數據不被影響
+
 Day021 數值型特徵 - 去除偏態：數值型特徵若分布明顯偏一邊，則需去除偏態以消除預測的偏差
-Day022
-Day023
-Day024
-Day025
-Day026
-Day027
-Day028
-Day029
-Day030
-Day031
-Day032
-Day033
-Day034
-Day035
-Day036
-Day037
-Day038
-Day039
-Day040
-Day041
-Day042
-Day043
-Day044
-Day045
-Day046
-Day047
-Day048
-Day049
-Day050
-Day051
-Day052
-Day053
-Day054
-Day055
-Day056
-Day057
-Day058
-Day059
-Day060
-Day061
-Day062
-Day063
-Day064
-Day065
-Day066
-Day067
-Day068
-Day069
-Day070
-Day071
-Day072
-Day073
-Day074
-Day075
-Day076
-Day077
-Day078
-Day079
-Day080
-Day081
-Day082
-Day083
-Day084
-Day085
-Day086
-Day087
-Day088
-Day089
-Day090
-Day091
-Day092
-Day093
-Day094
-Day095
-Day096
-Day097
-Day098
-Day099
-Day100
+
+Day022 類別型特徵 - 基礎處理：介紹類別型特徵最基礎的作法 : 標籤編碼與獨熱編碼
+
+Day023 類別型特徵 - 均值編碼：類別型特徵最重要的編碼 : 均值編碼，將標籤以目標均值取代
+
+Day024 類別型特徵 - 其他進階處理：類別型特徵的其他常見編碼 : 計數編碼對應出現頻率相關的特徵，雜湊編碼對應眾多類別而無法排序的特徵
+
+Day025 時間型特徵：時間型特徵可抽取出多個子特徵，或周期化，或取出連續時段內的次數
+
+Day026 特徵組合 - 數值與數值組合：特徵組合的基礎 : 以四則運算的各種方式，組合成更具預測力的特徵
+
+Day027 特徵組合 - 類別與數值組合：類別型對數值型特徵可以做群聚編碼，與目標均值編碼類似，但用途不同
+
+Day028 特徵選擇：介紹常見的幾種特徵篩選方式
+
+Day029 特徵評估：介紹並比較兩種重要的特徵評估方式，協助檢測特徵的重要性
+
+Day030 分類型特徵優化 - 葉編碼：葉編碼 : 適用於分類問題的樹狀預估模型改良
+
+Day031 機器學習概論：機器學習、深度學習與人工智慧差別是甚麼? 機器學習又有甚麼主題應用?
+
+Day032 機器學習-流程與步驟：資料前處理 -> 訓練/測試集切分 ->選定目標與評估基準 -> 建立模型 -> 調整參數。熟悉整個 ML 的流程
+
+Day033 機器如何學習?了解機器學習的定義，過擬合 (Overfit) 是甚麼，該如何解決
+
+Day034 訓練/測試集切分的概念：為何要做訓練/測試集切分？有什麼切分的方法？
+
+Day035 regression vs. classification：回歸問題與分類問題的區別？如何定義專案的目標
+
+Day036 評估指標選定/evaluation metrics：專案該如何選擇評估指標？常用指標有哪些？
+
+Day037 regression model 介紹 - 線性迴歸/羅吉斯回歸：線性迴歸/羅吉斯回歸模型的理論基礎與使用時的注意事項
+
+Day038 regression model 程式碼撰寫：如何使用 Scikit-learn 撰寫線性迴歸/羅吉斯回歸模型的程式碼
+
+Day039 regression model 介紹 - LASSO 回歸/ Ridge 回歸：LASSO 回歸/ Ridge 回歸的理論基礎與與使用時的注意事項
+
+Day040 regression model 程式碼撰寫：使用 Scikit-learn 撰寫 LASSO 回歸/ Ridge 回歸模型的程式碼
+
+Day041 tree based model - 決策樹 (Decision Tree) 模型介紹：決策樹 (Decision Tree) 模型的理論基礎與使用時的注意事項
+
+Day042 tree based model - 決策樹程式碼撰寫：使用 Scikit-learn 撰寫決策樹 (Decision Tree) 模型的程式碼
+
+Day043 tree based model - 隨機森林 (Random Forest) 介紹：隨機森林 (Random Forest)模型的理論基礎與使用時的注意事項
+
+Day044 tree based model - 隨機森林程式碼撰寫：使用 Scikit-learn 撰寫隨機森林 (Random Forest) 模型的程式碼
+
+Day045 tree based model - 梯度提升機 (Gradient Boosting Machine) 介紹：梯度提升機 (Gradient Boosting Machine) 模型的理論基礎與使用時的注意事項
+
+Day046 tree based model - 梯度提升機程式碼撰寫：使用 Scikit-learn 撰寫梯度提升機 (Gradient Boosting Machine) 模型的程式碼
+
+Day047 超參數調整與優化：什麼是超參數 (Hyper-paramter) ? 如何正確的調整超參數？常用的調參方法為何？
+
+Day048 Kaggle 競賽平台介紹：介紹全球最大的資料科學競賽網站。如何參加競賽？
+
+Day049 集成方法 : 混合泛化(Blending)：什麼是集成? 集成方法有哪些? Blending 的寫作方法與效果為何?
+
+Day050 集成方法 : 堆疊泛化(Stacking)：Stacking 的設計方向與主要用途是什麼? 通常會使用什麼套件實作?
+
+Day051 Kaggle 期中考：優惠券使用預測
+
+Day052 Kaggle 期中考：優惠券使用預測
+
+Day053 Kaggle 期中考：優惠券使用預測
+
+Day054 Clustering 1 非監督式機器學習簡介：非監督式學習簡介、應用場景
+
+Day055 Clustering 2 聚類算法：K-means
+
+Day056 K-mean 觀察 : 使用輪廓分析：非監督模型要以特殊評估方法(而非評估函數)來衡量, 今日介紹大家了解並使用其中一種方法 : 輪廓分析
+
+Day057 Clustering 3 階層分群算法：Hierarchical Clustering
+
+Day058 階層分群法 觀察 : 使用 2D 樣版資料集：非監督評估方法 : 2D樣版資料集是什麼? 如何生成與使用?
+
+Day059 Dimension Reduction 1 降維方法-主成份分析：PCA
+
+Day060 PCA 觀察 : 使用手寫辨識資料集：以較複雜的範例 : sklearn版手寫辨識資料集, 展示PCA的降維與資料解釋能力
+
+Day061 Dimension Reduction 2 降維方法-T-SNE
+
+Day062 T-SNE 觀察 : 分群與流形還原：什麼是流形還原? 除了 T-SNE 之外還有那些常見的流形還原方法?
+
+Day063 神經網路介紹：Neural Network 簡介
+
+Day064 深度學習體驗 : 模型調整與學習曲線：介紹體驗平台 TensorFlow PlayGround，並初步了解模型的調整
+
+Day065 深度學習體驗 : 啟動函數與正規化：在 TF PlayGround 上，體驗進階版的深度學習參數調整
+
+Day066 Keras 安裝與介紹：如何安裝 Keras 套件
+
+Day067 Keras Dataset：Keras embedded dataset的介紹與應用
+
+Day068 Keras Sequential API：序列模型搭建網路
+
+Day069 Keras Module API：Keras Module API的介紹與應用
+
+Day070 Multi-layer Perception多層感知：MLP簡介
+
+Day071 損失函數：損失函數的介紹與應用
+
+Day072 啟動函數：啟動函數的介紹與應用
+
+Day073 梯度下降Gradient Descent：梯度下降Gradient Descent簡介
+
+Day074 Gradient Descent 數學原理：介紹梯度下降的基礎數學原理
+
+Day075 BackPropagation：反向式傳播簡介
+
+Day076 優化器optimizers：優化器optimizers簡介
+
+Day077 訓練神經網路的細節與技巧 - Validation and overfit：檢視並了解 overfit 現象
+
+Day078 訓練神經網路前的注意事項：資料是否經過妥善的處理？運算資源為何？超參數的設置是否正確？
+
+Day079 訓練神經網路的細節與技巧 - Learning rate effect：比較不同 Learning rate 對訓練過程及結果的差異
+
+Day080 優化器與學習率的組合與比較：搭配不同的優化器與學習率進行神經網路訓練
+
+Day081 訓練神經網路的細節與技巧 - Regularization 正歸化
+
+Day082 訓練神經網路的細節與技巧 - Dropout 隨機缺失
+
+Day083 訓練神經網路的細節與技巧 - Batch normalization 批次正規化
+
+Day084 正規化/機移除/批次標準化的 組合與比較：練習時間：Hyper-parameters 大雜燴
+
+Day085 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 earlystop：悔不當初的煞車機制 (EarlyStopping)
+
+Day086 訓練神經網路的細節與技巧 - 使用 callbacks 函數儲存 model：使用 Keras 內建的 callback 函數儲存訓練完的模型
+
+Day087 訓練神經網路的細節與技巧 - 使用 callbacks 函數做 reduce learning rate
+
+Day088 訓練神經網路的細節與技巧 - 撰寫自己的 callbacks 函數
+
+Day089 訓練神經網路的細節與技巧 - 撰寫自己的 Loss function
+
+Day090 使用傳統電腦視覺與機器學習進行影像辨識：了解在神經網路發展前，如何使用傳統機器學習演算法處理影像辨識
+
+Day091 使用傳統電腦視覺與機器學習進行影像辨識：應用傳統電腦視覺方法＋機器學習進行 CIFAR-10 分類
+
+Day092 卷積神經網路 (Convolution Neural Network, CNN) 簡介
+
+Day093 卷積神經網路架構細節：為什麼比DNN更適合處理影像問題, 以及Keras上如何實作CNN
+
+Day094 卷積神經網路 - 卷積(Convolution)層與參數調整：卷積層原理與參數說明
+
+Day095 卷積神經網路 - 池化(Pooling)層與參數調整
+
+Day096 Keras 中的 CNN layers
+
+Day097 使用 CNN 完成 CIFAR-10 資料集
+
+Day098 訓練卷積神經網路的細節與技巧 - 處理大量數據：資料無法放進記憶體該如何解決？如何使用 Python 的生成器 generator?
+
+Day099 訓練卷積神經網路的細節與技巧 - 處理小量數據：Data Augmentation 資料增強
+
+Day100 訓練卷積神經網路的細節與技巧 - Transfer learning 轉移學習
+
 
 記錄每天學習進度+作業+延伸閱讀時數：
 
