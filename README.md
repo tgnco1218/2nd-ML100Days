@@ -1,5 +1,7 @@
 # 2nd-ML100Days
 
+### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
+
 Day001 資料介紹與評估資料：挑戰是什麼?動手分析前請三思
 
 Day002 EDA-1/讀取資料EDA: Data summary：如何讀取資料以及萃取出想要了解的信息
