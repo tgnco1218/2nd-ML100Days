@@ -5,9 +5,7 @@
 
 Certificate of Completion
 
-### Content
-
-### Clean Data and Data Preprocessing
+### Data and Cleaning Preprocessing
 Day 01 : Introduction and Data Assessment<br>
 Day 02 : Exploratory Data Analysis (EDA)<br>
 Day 03 : Pandas DataFrame<br>
