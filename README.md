@@ -1,4 +1,4 @@
-# Machine Learning Marathon Challenge
+# 100 Days Machine Learning Marathon Challenge
 # 第二屆機器學習百日馬拉松
 
 ### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
