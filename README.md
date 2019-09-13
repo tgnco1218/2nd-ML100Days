@@ -1,5 +1,5 @@
 # Machine Learning 100 Days Marathon Challenge
-# 第二屆機器學習百日馬拉松
+
 
 ### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
 
@@ -135,6 +135,7 @@ Day 106 : Commonly used data sets (Cifar-10, ImageNet, COCO)<br>
 Day 107 : Computer Vision Applications - Image Recognition, Segmentation, and Detection
 
 -----------------------------------------------------------------------------------------------------
+# 第二屆機器學習百日馬拉松
 
 Day001 資料介紹與評估資料：挑戰是什麼?動手分析前請三思
 
