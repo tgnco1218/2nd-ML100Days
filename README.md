@@ -5,7 +5,7 @@
 
 ### <a href="https://github.com/tgnco1218/2nd-ML100Days/blob/master/Certificate.pdf">Certificateof Completion</a>
 
-### Data and Cleaning Preprocessing
+### Data Cleaning and Preprocessing
 Day 01 : Introduction and Data Assessment<br>
 Day 02 : Exploratory Data Analysis (EDA)<br>
 Day 03 : Pandas DataFrame<br>
