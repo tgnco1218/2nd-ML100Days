@@ -3,7 +3,7 @@
 
 ### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
 
-Certificate of Completion
+<a href="https://github.com/tgnco1218/2nd-ML100Days/blob/master/Certificate.pdfCertificate">of Completion</a>
 
 ### Data and Cleaning Preprocessing
 Day 01 : Introduction and Data Assessment<br>
