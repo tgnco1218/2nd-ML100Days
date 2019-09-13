@@ -3,6 +3,141 @@
 
 ### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
 
+Certificate of Completion
+
+### Content
+
+### Clean Data and Data Preprocessing
+Day 01 : Introduction and Data Assessment<br>
+Day 02 : Exploratory Data Analysis (EDA)<br>
+Day 03 : Pandas DataFrame<br>
+Day 04 : Pandas Data Types<br>
+Day 05 : EDA Distribution<br>
+Day 06 : Handle Outlier<br>
+Day 07 : Data Normalization<br>
+Day 08 : DataFrame Operations<br>
+Day 09 : EDA Correlation 1/2<br>
+Day 10 : EDA Correlation 2/2<br>
+Day 11 : Kernal Density Estimation (KDE)<br>
+Day 12 : Discrete Continous Data 1/2<br>
+Day 13 : Discrete Continous Data 2/2<br>
+Day 14 : Subplot Using Matplotib<br>
+Day 15 : Heatmap and Grid-plot<br>
+Day 16 : Logistic Regression<br>
+
+### Feature Engineering
+Day 17 : Introduction of Feature Engineering<br>
+Day 18 : Feture Types<br>
+Day 19 : Numerical Feature - Replace Missing Values<br>
+Day 20 : Numerical Feature - Remove Outliers<br>
+Day 21 : Numerical Feature - Remove Skweness<br>
+Day 22 : Categorical Feature - One-Hot Encoding and Label Encoding<br>
+Day 23 : Categorical Feature - Mean Encoding<br>
+Day 24 : Categorical Feature - Other Advanced Processing<br>
+Day 25 : Time Series Feature - Time Cycle<br>
+Day 26 : Feature Combination - Numerical and Numerical<br>
+Day 27 : Feature Combination - Numerical and Categorical<br>
+Day 28 : Feature Selection<br>
+Day 29 : Feature Estimation<br>
+Day 30 : Leaf Encoding on Categorical Features<br>
+
+### Machine Learning Model Building
+Day 31 : Introduction of Machine Learning<br>
+Day 32 : Framework and Processing in Machine Learning<br>
+Day 33 : How Machine Learn?<br>
+Day 34 : Spliting Training and Evaluation Set<br>
+Day 35 : Regression vs. Classification<br>
+Day 36 : Evaluation Metrics<br>
+Day 37 : Regression Model - Linear/Logistic 1/2<br>
+Day 38 : Regression Model - Linear/Logistic 2/2<br>
+Day 39 : Regression Model - LASSO/Ridge 1/2<br>
+Day 40 : Regression Model - LASSO/Ridge 2/2<br>
+Day 41 : Tree Based Model - Decision Tree 1/2<br>
+Day 42 : Tree Based Model - Decision Tree 2/2<br>
+Day 43 : Tree Based Model - Random Forest 1/2<br>
+Day 44 : Tree Based Model - Random Forest 2/2<br>
+Day 45 : Tree Based Model - Gradient Boosting Machine 1/2<br>
+Day 46 : Tree Based Model - Gradient Boosting Machine 2/2<br>
+
+### Fine-tuning
+Day 47 : Hyper-Parameters Tuning and Optimization<br>
+Day 48 : Introduction of Kaggle<br>
+Day 49 : Bleding Method<br>
+Day 50 : Stacking Method<br>
+
+### Mid-Term Exam
+Day 51 : Mid-Term Exam 1/3<br>
+Day 52 : Mid-Term Exam 2/3<br>
+Day 53 : Mid-Term Exam 3/3<br>
+
+### Unsupervised Learning
+Day 54 : Introduction of Unsupervised Learning<br>
+Day 55 : Clustering Method<br>
+Day 56 : K-Mean<br>
+Day 57 : Hierarchical Clustering<br>
+Day 58 : Hierarchical Clustering on 2D Toy Dataset<br>
+Day 59 : Dimension Reduction - PCA<br>
+Day 60 : Dimension Reduction - PCA on MNIST<br>
+Day 61 : Dimension Reduction - T-SNE 1/2<br>
+Day 62 : Dimension Reduction - T-SNE 2/2<br>
+
+### Deep Learning
+Day 63 : Introduction of Neural Netork<br>
+Day 64 : Experience TensorFlow PlayGround - Learning Rate<br>
+Day 65 : Experience TensorFlow PlayGround - Activation Function/Regularization<br>
+
+### Deep Learning on Keras
+Day 66 : Introducion of Keras<br>
+Day 67 : Keras Dataset<br>
+Day 68 : Keras Sequential API<br>
+Day 69 : Keras Module API<br>
+Day 70 : Multi-Layer Perception (MLP)<br>
+Day 71 : Loss Functions<br>
+Day 72 : Activation Function<br>
+Day 73 : Gradient Descend 1/2<br>
+Day 74 : Gradient Descend 2/2<br>
+Day 75 : Back Propagation<br>
+Day 76 : Optimizers<br>
+Day 77 : Validation and Overfitting<br>
+Day 78 : KeyNote before Training Models<br>
+Day 79 : Learning Rate Effects<br>
+Day 80 : Combination of Optomizers and Learning Rate<br>
+Day 81 : Reduce Overfitting - Regularization<br>
+Day 82 : Reduce Overfitting - Dropout<br>
+Day 83 : Reduce Overfitting - Batch Normalization<br>
+Day 84 : Reduce Overfitting - Hyper-Parameters Tuning and Comparison<br>
+Day 85 : Reduce Overfitting - Early Stop<br>
+Day 86 : Saving Model Using Callbacks<br>
+Day 87 : Learning Rate Decay<br>
+Day 88 : Designing Keras Callbacks Function<br>
+Day 89 : Designing Loss Funciton<br>
+Day 90 : Image Recognition Using Tranditional Computer Vsion Methods<br>
+Day 91 : Image Recognition Using Machine Learning Models<br>
+
+### Convolutional Neural Network (CNN) in Deep Learning
+Day 92 : Introdoction of CNN 1/2<br>
+Day 93 : Introdoction of CNN 2/2<br>
+Day 94 : Parameters Tuning in CNN Layers<br>
+Day 95 : Pooling Layer in Keras<br>
+Day 96 : CNN Layers in Keras<br>
+Day 97 : CNN vs. DNN on CIFAR-10<br>
+Day 98 : Data Generator in Keras<br>
+Day 99 : Data Augmentation in Keras<br>
+Day 100 : Transfer Learning<br>
+
+### Final Exam
+Day 101 : Final Exam 1/3<br>
+Day 102 : Final Exam 2/3<br>
+Day 103 : Final Exam 3/3<br>
+
+### Extra Practices
+Day 104 : Web-based Interactive Neural Network Visualization<br>
+Day 105 : Convolutional Neural Network Review<br>
+Day 106 : Commonly used data sets (Cifar-10, ImageNet, COCO)<br>
+Day 107 : Computer Vision Applications - Image Recognition, Segmentation, and Detection
+
+-----------------------------------------------------------------------------------------------------
+
 Day001 資料介紹與評估資料：挑戰是什麼?動手分析前請三思
 
 Day002 EDA-1/讀取資料EDA: Data summary：如何讀取資料以及萃取出想要了解的信息
