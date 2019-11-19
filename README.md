@@ -1,9 +1,10 @@
 # Machine Learning 100 Days Marathon Challenge
 
+### 2019 機器學習百日馬拉松 | <a href="https://github.com/tgnco1218/2nd-ML100Days/blob/master/Certificate.pdf">Certificate of Completion</a>
+
+![000](homework/000.JPG)
 
 ### Please paste the URL from Github to https://nbviewer.jupyter.org/ if failed to load.
-
-### <a href="https://github.com/tgnco1218/2nd-ML100Days/blob/master/Certificate.pdf">Certificate of Completion</a>
 
 ### Data Cleaning and Preprocessing
 Day 01 : Introduction and Data Assessment<br>
